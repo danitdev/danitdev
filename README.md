@@ -29,4 +29,13 @@ Here are some ideas to get you started:
 - MySQL / MongoDB
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danitdev&show_icons=true&theme=dark)
+
+<div align="center">
+
+![danitdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danitdev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danitdev&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danitdev&theme=dark)](https://git.io/streak-stats)
+
+</div>
