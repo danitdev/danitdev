@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 - 🔭 I'm currently working on ninja frog a 2D platformer
 - 🌱 I'm learning unity and dotnet
-- 👯 I'm looking to collaborate on game projects and backend projects
+-  I'm looking to collaborate on game projects and backend projects
 - 💬 Ask me about [your expertise]
 - 📫 How to reach me: danibignarty@gmail.com
 
