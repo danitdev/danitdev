@@ -27,31 +27,19 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Programming
 
-* HTML5
-* CSS3
-* JavaScript
+- C#
+- JavaScript
+- Python
 
-### Backend
+### 🌐 Web Development
 
-* C#
-* .NET
-* Node.js
-* Django
-
-
-### Databases
-
-* SQL
-* MongoDB
-
-### Python & Data Science
-
-* Python
-* NumPy
-* Pandas
-* Scikit-learn
+- HTML5
+- CSS3
+- .NET
+- Node.js
+- Django
 
 ### 🎮 Game Development
 
@@ -60,12 +48,25 @@ Here are some ideas to get you started:
 - 3D Game Development
 - Aseprite
 - Blender
-  
-### Currently Learning
 
-* Vue.js
-* Nuxt.js
-* Advanced Backend Architecture
+### 🗄️ Databases
+
+- SQL
+- MongoDB
+
+### 🤖 AI & Data
+
+- NumPy
+- Pandas
+- Scikit-learn
+
+### 📚 Currently Learning
+
+- Vue.js
+- Nuxt.js
+- Advanced Backend Architecture
+- Multiplayer & Game Systems
+
 ## 💻 Languages
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,python)](https://skillicons.dev)
