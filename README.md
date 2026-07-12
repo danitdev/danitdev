@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 * Node.js
 * Django
 
+
 ### Databases
 
 * SQL
@@ -52,6 +53,14 @@ Here are some ideas to get you started:
 * Pandas
 * Scikit-learn
 
+### 🎮 Game Development
+
+- Unity
+- 2D Game Development
+- 3D Game Development
+- Aseprite
+- Blender
+  
 ### Currently Learning
 
 * Vue.js
