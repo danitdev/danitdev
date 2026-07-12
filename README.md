@@ -57,7 +57,22 @@ Here are some ideas to get you started:
 * Vue.js
 * Nuxt.js
 * Advanced Backend Architecture
+## 💻 Languages
 
+[![My Skills](https://skillicons.dev/icons?i=cs,js,python)](https://skillicons.dev)
+
+## 🌐 Web
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,django,vue,nuxt,html,css)](https://skillicons.dev)
+
+## 🎮 Game Development
+
+[![My Skills](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
+
+**Also experienced with:**
+- 🎨 Aseprite
+- 🕹️ 2D Game Development
+- 🌍 3D Game Development
 
 ## 📊 GitHub Stats
 
