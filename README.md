@@ -15,17 +15,49 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 About Me
-- 🔭 I'm currently working on ninja frog a 2D platformer
-- 🌱 I'm learning unity and dotnet
--  I'm looking to collaborate on game projects and backend projects
-- 📫 How to reach me: danibignarty@gmail.com
+# Hi there, I'm Danial Hamidzadeh 👋
 
-  ## 🛠️ Tech Stack
-- C# / .NET
-- Unity
-- Node.js
-- MySQL / MongoDB
+## 🚀 About Me
+
+* 💻 Full-stack developer with experience in both web development and backend technologies
+* 🌱 Currently expanding my skills in **Vue.js**, **Nuxt.js**, and modern backend development
+* 🤖 Interested in machine learning, data analysis, and building practical software solutions
+* 🚀 Always looking to learn new technologies and contribute to interesting open-source projects
+* 📫 Reach me at: **[danibignarty@gmail.com](mailto:danibignarty@gmail.com)**
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Backend
+
+* C#
+* .NET
+* Node.js
+* Django
+
+### Databases
+
+* SQL
+* MongoDB
+
+### Python & Data Science
+
+* Python
+* NumPy
+* Pandas
+* Scikit-learn
+
+### Currently Learning
+
+* Vue.js
+* Nuxt.js
+* Advanced Backend Architecture
+
 
 ## 📊 GitHub Stats
 
