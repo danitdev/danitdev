@@ -64,7 +64,7 @@
 
 ## 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,python,cpp)](https://skillicons.dev)
 
 ---
 
