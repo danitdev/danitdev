@@ -1,56 +1,104 @@
-# Hi there, I'm Danial Hamidzadeh 👋
+# Hi there, I'm Danial Hamidzadeh! 👋
 
-## 🚀 About Me
-
-* 💻 Backend-focused developer working with **Node.js, Express.js, MySQL, and Sequelize**
-* ⚙️ Currently building projects with **C++20, CMake, STL, and modern C++**
-* 🎮 Game developer with experience in **C#, Unity, gameplay systems, and shaders**
-* 🚀 Interested in **software architecture, developer tools, game technology, and building products**
-* 📚 Learning through hands-on projects and continuous experimentation
-* 📫 **[danibignarty@gmail.com](mailto:danibignarty@gmail.com)**
+### Product Engineer | Backend Developer | C++ Enthusiast | Game Developer
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 A Little About Me
 
-**Languages**
+- 💻 Backend-focused developer working with **Node.js, Express.js, MySQL, Sequelize, and REST APIs**.
+- ⚙️ Currently diving deeper into **Modern C++20, STL, CMake, systems programming, and software architecture**.
+- 🎮 Game developer with experience in **C#, Unity, gameplay systems, shaders, and game programming**.
+- 🚀 Interested in **software architecture, developer tools, game technology, and building products**.
+- 🧠 I learn by building real projects and going deeper into how things work under the hood.
+- 📚 Currently expanding my skills across **backend engineering, C++, DevOps, and professional game development**.
+- 📫 **[danibignarty@gmail.com](mailto:danibignarty@gmail.com)**
 
-`JavaScript` `TypeScript` `C++` `C#` `Python` `SQL`
+---
 
-**Backend**
+## 🛠️ Tech Stack & Tools
 
-`Node.js` `Express.js` `REST APIs` `Sequelize` `MySQL` `MongoDB`
+### 💻 Languages & Core
 
-**C++**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,python,html,css" />
+</p>
+
+### 🌐 Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
+
+`REST APIs` `Sequelize` `SQL` `Authentication` `Sessions`
+
+### ⚙️ C++ & Systems
 
 `C++20` `STL` `CMake` `Ninja` `fstream` `JSON`
 
-**Game Development**
+### 🎮 Game Development
 
-`Unity` `C#` `Shaders` `Pathfinding` `State Machines` `Object Pooling` `Blender` `Aseprite`
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
 
-**Tools**
+`C#` `Shaders` `Pathfinding` `State Machines` `Object Pooling` `Aseprite`
 
-`Git` `GitHub` `Docker` `VS Code`
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+</p>
 
 ---
 
 ## 🚀 Current Projects
 
-### StockKala
+### 📦 StockKala
 
-Inventory management application built with **Node.js, Express.js, Sequelize, MySQL, EJS, authentication, and sessions**.
+An inventory management application built with:
 
-### Todo CLI
+**Node.js · Express.js · Sequelize · MySQL · EJS**
 
-Modern C++ command-line application focused on **C++20, CMake, STL, file persistence, and JSON serialization**.
+Features include product and category management, authentication, sessions, validation, and database-backed CRUD operations.
+
+---
+
+### ✅ Todo CLI
+
+A command-line todo application built while deepening my understanding of modern C++.
+
+**C++20 · STL · CMake · File I/O · JSON Persistence**
+
+The project focuses on clean architecture, classes, file persistence, input handling, and gradually introducing more advanced C++ concepts.
 
 ---
 
 ## 🎯 Currently Learning
 
-* Modern C++ & systems programming
-* Backend architecture
-* Database design
-* DevOps & deployment
-* Professional game programming
+- ⚙️ **Modern C++ & Systems Programming**
+- 🏗️ **Software Architecture & Design**
+- 🌐 **Backend Architecture & API Design**
+- 🗄️ **Database Design & Persistence**
+- 🐳 **Docker, DevOps & Deployment**
+- 🎮 **Professional Game Programming**
+- 🚀 **Building and shipping software products**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danitdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danitdev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧭 My Engineering Philosophy
+
+> **Learn deeply. Build constantly. Ship things that matter.**
+
+---
+
+*"Always learning, always building, always improving."*
