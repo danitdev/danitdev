@@ -2,111 +2,63 @@
 
 ## 🚀 About Me
 
-* 💻 Backend-focused Full-Stack Developer building scalable web applications
-* 🏗️ Currently focused on **Node.js**, **Express.js**, database architecture, and backend systems
-* 🎮 Game developer experienced with **C#**, **Unity**, and interactive systems
-* 🚀 Interested in building real-world products, SaaS applications, and developer tools
-* 📚 Always learning software architecture, clean code, and scalable system design
-* 📫 Reach me at: **[danibignarty@gmail.com](mailto:danibignarty@gmail.com)**
+* 💻 Backend-focused developer working with **Node.js, Express.js, MySQL, and Sequelize**
+* ⚙️ Currently building projects with **C++20, CMake, STL, and modern C++**
+* 🎮 Game developer with experience in **C#, Unity, gameplay systems, and shaders**
+* 🚀 Interested in **software architecture, developer tools, game technology, and building products**
+* 📚 Learning through hands-on projects and continuous experimentation
+* 📫 **[danibignarty@gmail.com](mailto:danibignarty@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+**Languages**
 
-- JavaScript / TypeScript
-- C#
-- Python
+`JavaScript` `TypeScript` `C++` `C#` `Python` `SQL`
 
-### 🌐 Web Development
+**Backend**
 
-- Node.js
-- Express.js
-- REST APIs
-- HTML5
-- CSS3
+`Node.js` `Express.js` `REST APIs` `Sequelize` `MySQL` `MongoDB`
 
-### 🏗️ Backend & Architecture
+**C++**
 
-- MVC Architecture
-- Authentication & Authorization
-- Sessions & Cookies
-- Middleware Design
-- API Development
-- Sequelize ORM
+`C++20` `STL` `CMake` `Ninja` `fstream` `JSON`
 
-### 🗄️ Databases
+**Game Development**
 
-- MySQL
-- SQL
-- MongoDB
+`Unity` `C#` `Shaders` `Pathfinding` `State Machines` `Object Pooling` `Blender` `Aseprite`
 
-### 🎮 Game Development
+**Tools**
 
-- Unity
-- C#
-- 2D / 3D Game Development
-- Blender
-- Aseprite
-
----
-
-## 📚 Currently Learning
-
-- Advanced Node.js Backend Architecture
-- Database Design & Optimization
-- TypeScript
-- Cloud Deployment & DevOps
-- Building SaaS Products
-
----
-
-## 💻 Languages
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,python,cpp)](https://skillicons.dev)
-
----
-
-## 🌐 Web Development
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,html,css)](https://skillicons.dev)
-
----
-
-## 🎮 Game Development
-
-[![My Skills](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
-
-**Also experienced with:**
-
-- 🎨 Aseprite
-- 🕹️ Game mechanics
-- 🌍 2D & 3D workflows
+`Git` `GitHub` `Docker` `VS Code`
 
 ---
 
 ## 🚀 Current Projects
 
 ### StockKala
-A platform built with:
 
-- Node.js
-- Express.js
-- Sequelize
-- MySQL
-- Authentication system
-- Sessions
-- MVC architecture
+Inventory management application built with **Node.js, Express.js, Sequelize, MySQL, EJS, authentication, and sessions**.
+
+### Todo CLI
+
+Modern C++ command-line application focused on **C++20, CMake, STL, file persistence, and JSON serialization**.
+
+---
+
+## 🎯 Currently Learning
+
+* Modern C++ & systems programming
+* Backend architecture
+* Database design
+* DevOps & deployment
+* Professional game programming
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danitdev&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danitdev&theme=dark)](https://git.io/streak-stats)
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
