@@ -116,19 +116,6 @@ Long-term, I'm also interested in understanding game technology at a lower level
 * 🧩 **Game Engine Architecture**
 * 🚀 **Building & Shipping Software Products**
 
----
-
-<div align="center">
-
-<h2>🐍 My Contributions 🐍</h2>
-
-<br/>
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/danitdev/danitdev/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-<br/>
 
 ---
 
