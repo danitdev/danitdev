@@ -62,6 +62,3 @@ Modern C++ command-line application focused on **C++20, CMake, STL, file persist
   <img src="https://github-readme-stats.vercel.app/api?username=danitdev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitdev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
