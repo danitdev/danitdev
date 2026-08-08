@@ -92,13 +92,3 @@ The project focuses on clean architecture, classes, file persistence, input hand
   <img src="https://github-readme-stats.vercel.app/api?username=danitdev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danitdev&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🧭 My Engineering Philosophy
-
-> **Learn deeply. Build constantly. Ship things that matter.**
-
----
-
-*"Always learning, always building, always improving."*
