@@ -10,6 +10,22 @@
 
 <br/>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<br/>
+
+<div align="center">
+
+<a href="mailto:danibignarty@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
+<a href="https://github.com/danitdev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -133,30 +149,3 @@ Long-term, I'm also interested in understanding game technology at a lower level
 
 </div>
 
-<br/><br/>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<br/>
-
-<div align="center">
-
-<a href="mailto:danibignarty@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-
-<a href="https://github.com/danitdev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💡 Build. Learn. Ship. Repeat.
-
-</div>
