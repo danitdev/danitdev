@@ -50,7 +50,7 @@
 
 ### 🎮 Game Development
 
-<img src="https://skillicons.dev/icons?i=unity,cs" />
+<img src="https://skillicons.dev/icons?i=unity,cs,blender" />
 
 </div>
 
