@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=unity,blender" />
 </p>
 
-`C#` `Shaders` `Pathfinding` `State Machines` `Object Pooling` `Aseprite`
+`Shaders` `Aseprite`
 
 ### 🧰 Tools
 
