@@ -56,9 +56,6 @@ Modern C++ command-line application focused on **C++20, CMake, STL, file persist
 * Professional game programming
 
 ---
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
