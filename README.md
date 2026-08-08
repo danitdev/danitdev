@@ -129,10 +129,6 @@ Long-term, I'm also interested in understanding game technology at a lower level
 
 <br/><br/>
 
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danitdev&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub stats"/>
-
-<br/><br/>
-
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danitdev&hide=HTML,Jupyter%20Notebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages"/>
 
 </div>
