@@ -54,11 +54,3 @@ Modern C++ command-line application focused on **C++20, CMake, STL, file persist
 * Database design
 * DevOps & deployment
 * Professional game programming
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danitdev&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitdev&layout=compact" />
-</p>
